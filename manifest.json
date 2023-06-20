@@ -1,0 +1,11 @@
+{
+    "name": "Country and Capital",
+    "version": "1.0.0",
+    "description": "A list of countries and capital",
+    "manifest_version": 3,
+    "author": "Toyin Balogun",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Country and Capital"
+    }
+}
